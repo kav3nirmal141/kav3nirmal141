@@ -1,43 +1,50 @@
 # Kaveesha Nirmal
 
-Cybersecurity Practitioner | Ethical Hacker
+Aspiring Red Team / Penetration Tester | Hands-on learner
 
-I specialize in **cybersecurity, penetration testing, and hands-on technical problem solving**. I focus on building practical skills, exploring real-world vulnerabilities, and contributing to secure and resilient digital systems.
+
+I focus on building practical skills, exploring real-world vulnerabilities, offensive + deffensive security and contributing to secure and resilient digital systems.
 
 ---
 
-## Areas of Expertise
-- **Ethical Hacking & Penetration Testing:** Identifying and exploiting vulnerabilities in web apps, networks, and systems.  
-- **Cybersecurity Tools & Techniques:** Hands-on experience with tools like Nmap, Burp Suite, Metasploit, Wireshark, Gobuster and More.  
-- **System & Network Security:** Linux, Windows, firewalls, port security, and secure system administration.  
-- **Web & Application Security:** Exploiting IDOR, XSS, CSRF, SQLi, and real-world web vulnerabilities.  
+## Core Skills
+- **Networking:** TCP/IP, Routing, VLANs, DHCP, DNS, Trunking, Port Security. 
+- **Offensive Security:** Web exploitation (IDOR, LFI), CTFs, Enumeration, Privelege Escalation.  
+- **Operating Systems:** Kali Linux, Ubuntu Linux, Windows, Windows Server.  
+- **Scripting & Automation:** Python, Bash, Poweshell.
+- **Blue Team Basics:** Malware Analysis, Log Analysis, SOC Alert Triaging  
 
 ---
 
 ## Achievements & Experience
-- Completed advanced **TryHackMe** & **HackTheBox** labs and challenges, including full CTFs and real-world attack simulations.  
-- Gained hands-on experience with malware analysis, log analysis, and privilege escalation.  
-- Demonstrated ability to analyze, detect, and mitigate cybersecurity threats.  
-- Built practical projects and write-ups showcasing techniques like aggressive mode VPN exploits, CVE-based privilege escalation, and more.
-- Build practical experience from my Home-Lab built using several Virtual Machines. 
+- 100+ **TryHackMe** Labs (Top 5%).
+- 5+ **HackTheBox** Labs. 
+- Built and lauched my own CTFs in TryHackMe.
+- Used Real World CVEs to exploit Labs & Custom Scripts.
+- Designed Enterprise-style newtworks in Packet Tracer.
+- Built a Home-Lab with multiple VM's. 
 
 ---
 
-## Technical Skills
-- **Programming & Scripting:** Python, Bash/Shell scripting  
-- **Platforms & OS:** Linux, Windows, networking environments  
-- **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Splunk, Gobuster and More.
-- **Cybersecurity Concepts:** Network security, vulnerability assessment, malware analysis, exploit development, network configuration.
+## Core Tools
+- Nmap
+- Burp Suite
+- Metasploit
+- Wireshark
+- Netcat
+- Nessus
+- Splunk
 
 ---
 
-## Objectives
-- Continuously master advanced cybersecurity skills and techniques.  
-- Participate in Capture-The-Flag events. 
-- Contribute to secure digital systems and communities by sharing knowledge and research.  
+## Current Focus
+- Preparing for Certifications (CEH, OSCP, eJPT).
+- Advance web exploitation.
+- Cryptography.
+- Active Directory security & attacks.
 
 ---
 
 ### Connect
-- LinkedIn: [Kaveesha Nirmal](www.linkedin.com/in/kaveesha-nirmal-67a630375)  
+- LinkedIn:   www.linkedin.com/in/kaveesha-nirmal-67a630375
 - GitHub Repositories: Browse my work in cybersecurity labs, scripts, and CTF challenges
